@@ -4,10 +4,10 @@ A complete full-stack web application that allows users to **upload their own ti
 
 The app features a **React frontend** for an interactive user experience and a **Django backend** to handle data processing and the ML pipeline. It is robust, user-friendly, and capable of handling volatile time series datasets such as stock market or sales data.
 
----
+<!-- ---
 
 ## 🚀 Live Demo Screenshot
-*(Example: Forecasting the future "Volume" of ADANIPORTS stock dataset — handling volatile financial data with ease.)*
+*(Example: Forecasting the future "Volume" of ADANIPORTS stock dataset — handling volatile financial data with ease.)* -->
 
 ---
 
